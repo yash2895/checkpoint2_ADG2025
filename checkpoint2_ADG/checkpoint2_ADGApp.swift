@@ -11,7 +11,7 @@ import SwiftUI
 struct checkpoint2_ADGApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
